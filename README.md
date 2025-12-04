@@ -8,6 +8,7 @@ The project forms part of the Machine Learning and Neural Networks course assign
 
 ## 📁 Repository Structure
 
+<img width="276" height="478" alt="Screenshot 2025-12-04 at 10 27 42 PM" src="https://github.com/user-attachments/assets/24557a4d-755b-4414-b067-fc7d19266617" />
 
 ---
 
